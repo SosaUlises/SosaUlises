@@ -11,26 +11,9 @@ I approach development with a strong focus on clean code, separation of concerns
 
 ## 🧠 Core Expertise
 
-**Backend**
-- C#
-- .NET / ASP.NET Core
-- Entity Framework Core
-- RESTful APIs
-- JWT / Identity
-- Clean Architecture
-- CQRS
-- MVC / Repository / Services
-
-**Databases**
-- PostgreSQL
-- SQL Server
-- MongoDB
-
-**Development Tools**
-- Swagger / Postman
-- LINQ
-- FluentValidation
-- AutoMapper
+**Backend:** C#, .NET, ASP.NET Core, REST APIs, Clean Architecture, CQRS, JWT, MVC  
+**Databases:** PostgreSQL, SQL Server, MongoDB  
+**Tools:** Git, Swagger, Postman, EF Core, FluentValidation, AutoMapper
 
 ---
 
