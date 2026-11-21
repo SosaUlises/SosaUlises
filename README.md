@@ -1,23 +1,35 @@
 # Hi there 👋 I'm Ulises Sosa
-Backend Developer focused on the .NET ecosystem.
 
-I'm an Information Systems Analyst and an advanced Systems Engineering student.  
-I specialize in building well-structured backend applications using ASP.NET Core and applying architectural principles that prioritize maintainability, clarity, and scalability.
+**Software Developer | .NET & Next.js | IT Support & Infrastructure**
 
-I approach development with a strong focus on clean code, separation of concerns, and long-term system evolution.
+I'm an Information Systems Analyst and an advanced Systems Engineering student based in Rosario, Argentina.
 
-## 🧠 Core Expertise
+I'm currently working as an **IT Support & Infrastructure Intern at Avalian**, gaining hands-on experience in enterprise IT environments, technical support, infrastructure management, and troubleshooting.
 
-**Backend:** C#, .NET, ASP.NET Core, REST APIs, Clean Architecture, CQRS, JWT, MVC  
-**Databases:** PostgreSQL, SQL Server, MongoDB  
-**Tools:** Git, Swagger, Postman, EF Core, FluentValidation, AutoMapper
+My background is primarily focused on **software development**, building Full Stack applications using C#, ASP.NET Core, Next.js, TypeScript, and relational databases.
 
-## 🎯 Professional Goal
+I value clean code, separation of concerns, and well-structured architectures that prioritize maintainability, scalability, and long-term system evolution.
 
-I am currently seeking my first professional opportunity as a Backend .NET Developer, where I can contribute with solid architectural foundations, disciplined development practices, and continue growing within real production environments.
+## 🛠️ Tech Stack
+
+**Backend:** C#, .NET, ASP.NET Core, REST APIs, Entity Framework Core, Clean Architecture, CQRS, JWT, FluentValidation
+
+**Frontend:** Next.js, React, TypeScript, JavaScript, Tailwind CSS
+
+**Databases:** PostgreSQL, SQL Server, MongoDB
+
+**Tools:** Git, GitHub, Swagger/OpenAPI, Postman, Docker, Vercel, Render
+
+## 🎯 Professional Focus
+
+I'm focused on continuing to grow as a software developer while gaining practical experience in enterprise IT environments.
+
+My goal is to strengthen my technical skills, contribute to meaningful projects, and keep learning through real-world challenges, combining software development knowledge with problem-solving and teamwork.
 
 ## 📫 Contact
 
-Portfolio: https://portfolio-sosaulises.vercel.app  
-LinkedIn: https://linkedin.com/in/sosaulises  
-Email: sosa10ulises@gmail.com
+**Portfolio:** https://portfolio-sosaulises.vercel.app
+
+**LinkedIn:** https://linkedin.com/in/sosaulises
+
+**Email:** sosa10ulises@gmail.com
